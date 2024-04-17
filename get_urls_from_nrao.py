@@ -50,6 +50,7 @@ def main():
 
         # Loop through each tile URL
         for tile_url in tile_list:
+            print(f"Processing tile URL: {tile_url}")
             try:
                 # Get a list of subtile URLs that match the specified file type
                 url_t = URL + '/' + tile_url
