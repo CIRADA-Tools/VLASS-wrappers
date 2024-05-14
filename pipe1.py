@@ -22,6 +22,7 @@ def wait_for_pipeline():
 
 commands = [
     "python3 catenator.py download",
+    "python3 ../fix_headers.py 1",
     "python3 catenator.py process",
     "python3 catenator.py vlad",
     "python3 catenator.py diagnostics",
