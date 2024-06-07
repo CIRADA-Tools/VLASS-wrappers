@@ -3,7 +3,7 @@ Wrapper scripts for VLASS catalog routines.
 
 
 ## Overview
-This repository hosts scripts that act as a wrapper for pipelines processing data from the Very Large Array Sky Survey (VLASS) to produce Science Ready Data Products (SRDPs), including various catalogs. These scripts streamline the entire process, from NRAO VLASS image retrieval to cataloging. The main purpose of the repository is to make possible the creation of a standalone docker image for running the various pipelines end to end by using these scripts.
+This repository hosts scripts that act as a wrapper for pipelines processing data from the Very Large Array Sky Survey (VLASS) to produce Science Ready Data Products (SRDPs), including various catalogs. These scripts streamline the entire process, from NRAO VLASS image retrieval to cataloging. The repository's main purpose is to create a standalone docker image for running the various pipelines end to end by using these scripts.
 
 
 ### Pipelines Overview
