@@ -74,7 +74,3 @@ This repository hosts scripts that act as a wrapper for pipelines processing dat
 ## Additional Documentation
 
 https://binysebastian.github.io/Documentation_cirada_pipeline/
-
-
-## License
-This project is licensed under the terms of the MIT license.
