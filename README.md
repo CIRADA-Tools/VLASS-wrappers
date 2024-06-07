@@ -21,13 +21,13 @@ This repository hosts scripts that act as a wrapper for pipelines processing dat
   - **Description**: Script automating Pipeline 1 steps.
   
 - **pipe2.sh**
-  - **Description**: Script automating Pipeline 1 steps.
+  - **Description**: Script automating Pipeline 2 steps.
 
 - **pipe3_2.sh**
   - **Description**: Script to execute SOM pipeline.
 
 - **automate.py**
-  - **Description**: Script to generate bash scripts that .
+  - **Description**: Script to generate bash scripts that automate the entire pipeline.
 
 - **finalize_catalogs.py**
   - **Description**: Finalizes the catalogs.
