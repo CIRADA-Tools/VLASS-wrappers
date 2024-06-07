@@ -1,4 +1,5 @@
-export WORKDIR=$HOME/$(date +%Y%m%d)
+# export WORKDIR=$HOME/$(date +%Y%m%d)
+export WORKDIR=/tmp
 mkdir $WORKDIR
 export PIPE1=$WORKDIR/continuum_bdp_catalogue_generator
 export PIPE2=$WORKDIR/vlass_cat
