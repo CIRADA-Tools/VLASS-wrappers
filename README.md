@@ -13,8 +13,6 @@ This repository hosts scripts that act as a wrapper for pipelines processing dat
 - **Pipeline 3**: Uses a self-organizing map (SOM) to cluster radio components based on morphology.
 - **Pipeline 4**: Identifies doubles in VLASS and potential host candidates, resolving host identifications with a likelihood ratio code.
 
-Each pipeline is documented further in the subsequent sections, including hardware requirements and additional operational details.
-
 ## Repository Contents
 
 ### Python Scripts
